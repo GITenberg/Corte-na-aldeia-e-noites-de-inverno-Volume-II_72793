@@ -1,5 +1,8 @@
 _repo: Corte-na-aldeia-e-noites-de-inverno-Volume-II_72793
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72793-h/images/cover.jpg
 creator:
   author:
     agent_name: Lobo, Francisco Rodrigues
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Francisco_Rodrigues_Lobo
     - https://pt.wikipedia.org/wiki/Francisco_Rodrigues_Lobo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72793#Corte-na-aldeia-e-noites-de-inverno-Volume-II
 gutenberg_issued: '2024-01-25'
 gutenberg_type: Text
 identifiers:
