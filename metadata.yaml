@@ -1,0 +1,37 @@
+_repo: Corte-na-aldeia-e-noites-de-inverno-Volume-II_72793
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lobo, Francisco Rodrigues
+    aliases:
+    - Lobo, Rodrigues
+    - Rodrigues Lobo, Francisco
+    birthdate: 1580
+    deathdate: 1622
+    gutenberg_agent_id: '39036'
+    url: http://www.gutenberg.org/2009/agents/39036
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Francisco_Rodrigues_Lobo
+    - https://pt.wikipedia.org/wiki/Francisco_Rodrigues_Lobo
+description: ''
+gutenberg_issued: '2024-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72793'
+language: pt
+pgterms:marc905: 20070312043319lobo
+pgterms:marc906: '1890'
+pgterms:marc907: PT
+production_note: Rita Farinha, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: '  $aLisboa :$bComp. Nacional Ed., $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature -- Classical period, 1500-1700'
+- !lcc 'PQ'
+- GITenberg
+title: Côrte na aldeia e noites de inverno (Volume II)
+url: http://www.gutenberg.org/ebooks/72793
